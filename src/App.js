@@ -5,7 +5,7 @@ import Faq from './Component/Faq'
 function App() {
   return (
     <div className="App">
-      <Faq></Faq>
+      <Faq />
      
     </div>
   );
