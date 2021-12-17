@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/faqreact/static/css/main.dae7b579.css",
+    "main.js": "/faqreact/static/js/main.bbae8b5a.js",
+    "static/js/787.55fc986e.chunk.js": "/faqreact/static/js/787.55fc986e.chunk.js",
+    "index.html": "/faqreact/index.html",
+    "main.dae7b579.css.map": "/faqreact/static/css/main.dae7b579.css.map",
+    "main.bbae8b5a.js.map": "/faqreact/static/js/main.bbae8b5a.js.map",
+    "787.55fc986e.chunk.js.map": "/faqreact/static/js/787.55fc986e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dae7b579.css",
+    "static/js/main.bbae8b5a.js"
+  ]
+}
